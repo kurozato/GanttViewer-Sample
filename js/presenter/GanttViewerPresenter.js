@@ -2,7 +2,6 @@
 import { GanttTask } from "./GanttTask.js";
 //import { GanttViewerView } from "../view/GanttViewerView.js";
 //import { GanttViewerService } from "../model/GanttViewerService.js";
-import { ApiHelper } from './apiHelper.js'
 export class GanttViewerPresenter {
 
     /**
