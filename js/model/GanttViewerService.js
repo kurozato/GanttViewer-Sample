@@ -15,7 +15,7 @@ export class GanttViewerService {
 
     get() {
 
-        return fetch('../../task.json')
+        return fetch('../task.json')
             .then(res => res.json())
             .then(data => {
                 //console.log(data);
