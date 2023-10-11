@@ -1,0 +1,90 @@
+   /*bi-envelope-paper*/
+   .gantt .bar-wrapper.bi-envelope-paper .bar {
+       fill: #dfce70;
+       stroke: #bdb650;
+       stroke-width: 0;
+       transition: stroke-width .3s ease;
+       user-select: none;
+   }
+
+   .gantt .bar-wrapper.bi-envelope-paper .bar-progress {
+       fill: #a79840;
+   }
+
+   /*bi-file-earmark-binary*/
+   .gantt .bar-wrapper.bi-file-earmark-binary .bar {
+       fill: #b3d3b5;
+       stroke: #8da68d;
+       stroke-width: 0;
+       transition: stroke-width .3s ease;
+       user-select: none;
+   }
+
+   .gantt .bar-wrapper.bi-file-earmark-binary .bar-progress {
+       fill: #569759;
+   }
+
+   /*bi-braces*/
+   .gantt .bar-wrapper.bi-braces .bar {
+       fill: #a9abd6;
+       stroke: #858abe;
+       stroke-width: 0;
+       transition: stroke-width .3s ease;
+       user-select: none;
+   }
+
+   .gantt .bar-wrapper.bi-braces .bar-progress {
+       fill: #7878bd;
+   }
+
+   /*bi-bug*/
+   .gantt .bar-wrapper.bi-bug .bar {
+       fill: #7097df;
+       stroke: #5076bd;
+       stroke-width: 0;
+       transition: stroke-width .3s ease;
+       user-select: none;
+   }
+
+   .gantt .bar-wrapper.bi-bug .bar-progress {
+       fill: #4064a7;
+   }
+
+   /*bi-person-video3*/
+   .gantt .bar-wrapper.bi-person-video3 .bar {
+       fill: #e291c3;
+       stroke: #ba7bc0;
+       stroke-width: 0;
+       transition: stroke-width .3s ease;
+       user-select: none;
+   }
+
+   .gantt .bar-wrapper.bi-person-video3 .bar-progress {
+       fill: #ce57be;
+   }
+
+   /*bi-box-seam*/
+   .gantt .bar-wrapper.bi-box-seam .bar {
+       fill: #e9aa63;
+       stroke: #bdb650;
+       stroke-width: 0;
+       transition: stroke-width .3s ease;
+       user-select: none;
+   }
+
+   .gantt .bar-wrapper.bi-box-seam .bar-progress {
+       fill: #e2943b;
+   }
+
+   /*other*/
+   .gantt .bar-wrapper .bar {
+       fill: #c5c5c5;
+       stroke: #b8b7b3;
+       stroke-width: 0;
+       transition: stroke-width .3s ease;
+       user-select: none;
+   }
+
+   .gantt .bar-wrapper .bar-progress {
+       fill: #bbbaba;
+   }

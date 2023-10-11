@@ -1,0 +1,59 @@
+.samle-bi {
+    color: floralwhite;
+}
+
+/*bi-envelope-paper*/
+.color-bi-envelope-paper {
+    background-color: #dfce70;
+}
+
+/*bi-file-earmark-binary*/
+.color-bi-file-earmark-binary {
+    background-color: #b3d3b5;
+
+}
+
+/*bi-braces*/
+.color-bi-braces {
+    background-color: #a9abd6;
+}
+
+/*bi-bug*/
+.color-bi-bug {
+    background-color: #7097df;
+}
+
+/*bi-person-video3*/
+.color-bi-person-video3 {
+    background-color: #e291c3;
+}
+
+/*bi-box-seam*/
+.color-bi-box-seam {
+    background-color: #e9aa63;
+}
+
+/*other*/
+.color-bi-handbag {
+    background-color: #c5c5c5;
+}
+
+.color-bi-journals {
+    background-color: #c5c5c5;
+}
+
+.color-bi-clipboard2-check {
+    background-color: #ffb8ab;
+}
+
+.color-bi-other {
+    background-color: #c5c5c5;
+}
+
+.color-bi-patch-check {
+    background-color: #8D99A6;
+}
+
+.color-sample.bi-sample div {
+    padding-left: 1em;
+}

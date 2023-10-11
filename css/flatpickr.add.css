@@ -1,0 +1,48 @@
+    /* 日曜日：赤 */
+    .flatpickr-calendar .flatpickr-innerContainer .flatpickr-weekdays .flatpickr-weekday:nth-child(7n + 1),
+    .flatpickr-calendar .flatpickr-innerContainer .flatpickr-days .flatpickr-day:not(.flatpickr-disabled):not(.prevMonthDay):not(.nextMonthDay):nth-child(7n + 1) {
+        color: red
+    }
+
+    /* 土曜日：青 */
+    .flatpickr-calendar .flatpickr-innerContainer .flatpickr-weekdays .flatpickr-weekday:nth-child(7),
+    .flatpickr-calendar .flatpickr-innerContainer .flatpickr-days .flatpickr-day:not(.flatpickr-disabled):not(.prevMonthDay):not(.nextMonthDay):nth-child(7n) {
+        color: blue;
+    }
+
+    .flatpickr-monthDropdown-months {
+        transform: translate(60px)
+    }
+
+    .cur-month {
+        transform: translate(60px)
+    }
+
+    .numInputWrapper {
+        transform: translate(-80px);
+    }
+
+    .flatpickr-current-month::before {
+        content: "年";
+        position: absolute;
+        left: 80px;
+        top: 12px;
+    }
+
+    .flatpickr-day.selected {
+        background: #d6d6d6;
+        border-color: white;
+    }
+
+    .flatpickr-day.selected:hover {
+        background: #bcc4ca;
+        border-color: white;
+    }
+
+    .flatpickr-months {
+        background: #eeeeee;
+    }
+
+    .flatpickr-weekdays {
+        background: #eeeeee;
+    }
